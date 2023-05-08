@@ -1,6 +1,6 @@
 # DigiCert Official Oids
 
-v1.0 Updated **05 Jan 2023** by Chuck Blevins
+v1.0 Updated **08 May 2023** by Chuck Blevins
 
 OIDs in this list and in DigiCert certificates belong to their respective owners.
 
@@ -83,3 +83,4 @@ OIDs in this list and in DigiCert certificates belong to their respective owners
 | FBCA Device                                                                                                                                                                                                                  | 2.16.840.1.114412.1.11     | | |
 | FBCA Basic                                                                                                                                                                                                                   | 2.16.840.1.114412.4.2      | | |
 | Digicert cert-template - Data included within OID indicates template                                                                                                                                                         | 2.16.840.1.114412.39   |   |  |
+| Non-verified TLS    (Private trust only)                                                                                                                                                                                               | 2.16.840.1.114412.1.19     | | |   
