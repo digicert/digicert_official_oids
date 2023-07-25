@@ -118,15 +118,15 @@ OIDs in this list and in DigiCert certificates belong to their respective owners
 | Digital Sign |1.3.6.1.4.1.25596.1.2.102 |||
 | Digital Sign |1.3.6.1.4.1.25596.1.2.103 |||
 | Digital Sign |1.3.6.1.4.1.25596.1.2.104 |||
-| Mailbox-validated Legacy                    | | 2.23.140.1.5.1.1      
-| Mailbox-validated Multipurpose              | | 2.23.140.1.5.1.2              |  ||
-| Mailbox-validated Strict                    | | 2.23.140.1.5.1.3              |  ||
-| Organization-validated Legacy                                               | | 2.23.140.1.5.2.1              |  ||
-| Organization-validated Multipurpose                                         | | 2.23.140.1.5.2.2              |  ||
-| Organization-validated Strict                                               | | 2.23.140.1.5.2.3              |  ||
-| Sponsor-validated Legacy                                                    | | 2.23.140.1.5.3.1              |  ||
-| Sponsor-validated Multipurpose                                               || 2.23.140.1.5.3.2              |  ||
-| Sponsor-validated Strict                                                   |  | 2.23.140.1.5.3.3              |  ||
-| Individual-validated Legacy                                                  || 2.23.140.1.5.4.1              |  ||
-| Individual-validated Multipurpose                                          |  | 2.23.140.1.5.4.2              |  ||
-| Individual-validated Strict                                                  || 2.23.140.1.5.4.3              |  |
+| CABF SMIME BR: Mailbox-validated Legacy                    | | 2.23.140.1.5.1.1      
+| CABF SMIME BR: Mailbox-validated Multipurpose              | | 2.23.140.1.5.1.2              |  ||
+| CABF SMIME BR: Mailbox-validated Strict                    | | 2.23.140.1.5.1.3              |  ||
+| CABF SMIME BR: Organization-validated Legacy                                               | | 2.23.140.1.5.2.1              |  ||
+| CABF SMIME BR: Organization-validated Multipurpose                                         | | 2.23.140.1.5.2.2              |  ||
+| CABF SMIME BR: Organization-validated Strict                                               | | 2.23.140.1.5.2.3              |  ||
+| CABF SMIME BR: Sponsor-validated Legacy                                                    | | 2.23.140.1.5.3.1              |  ||
+| CABF SMIME BR: Sponsor-validated Multipurpose                                               || 2.23.140.1.5.3.2              |  ||
+| CABF SMIME BR: Sponsor-validated Strict                                                   |  | 2.23.140.1.5.3.3              |  ||
+| CABF SMIME BR: Individual-validated Legacy                                                  || 2.23.140.1.5.4.1              |  ||
+| CABF SMIME BR: Individual-validated Multipurpose                                          |  | 2.23.140.1.5.4.2              |  ||
+| CABF SMIME BR: Individual-validated Strict                                                  || 2.23.140.1.5.4.3              |  |
