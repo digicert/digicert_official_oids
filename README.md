@@ -1,6 +1,6 @@
 # DigiCert Official Oids
 
-v1.1 Updated **23 January 2025** by Chuck Blevins
+v1.1 Updated **23 January 2023** by Chuck Blevins
 
 OIDs in this list and in DigiCert certificates belong to their respective owners.
 
