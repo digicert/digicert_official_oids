@@ -104,4 +104,4 @@ OIDs in this list and in DigiCert certificates belong to their respective owners
 | CABF SMIME BR Sponsor-validated Strict                                                   |  | 2.23.140.1.5.3.3              |  ||
 | CABF SMIME BR Individual-validated Legacy                                                  || 2.23.140.1.5.4.1              |  ||
 | CABF SMIME BR Individual-validated Multipurpose                                          |  | 2.23.140.1.5.4.2              |  ||
-| CABF SMIME BR Individual-validated Strict                                                  || 2.23.140.1.5.4.3              |  |
+|  CABF SMIME BR Individual-validated Strict                                                  || 2.23.140.1.5.4.3              |  |
