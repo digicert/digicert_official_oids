@@ -1,32 +1,6 @@
-<style>
-table, tr { 
-    vertical-align: top;
-    text-align: left; 
-}
-table th {
-      background-color:#e3e3e3;
-}
-table th:first-of-type {
-    width: 33%;
-}
-table tr:nth-child(even) {
-    background-color:#eeeeee;
-}
-
-table th:nth-of-type(2) {
-    width: 21%;
-}
-table th:nth-of-type(3) {
-    width: 21%;
-}
-table th:nth-of-type(4) {
-    width: 21%;
-}
-</style>
-
 # DigiCert Official Oids
 
-v1.0 Updated **20 July 2023** by Chuck Blevins
+v1.1 Updated **23 January 2025** by Chuck Blevins
 
 OIDs in this list and in DigiCert certificates belong to their respective owners.
 
